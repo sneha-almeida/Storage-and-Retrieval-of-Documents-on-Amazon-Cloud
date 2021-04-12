@@ -1,1 +1,1 @@
-# Storage-and-Retrieval-of-Documents-on-Amazon-Cloud
+# Storage and Retrieval of Documents From Amazon Cloud
